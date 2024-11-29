@@ -43,7 +43,7 @@ linkedin_username: Jaeik (Jake) Kim
 
 # About Section
 # about_title: About Me
-about_profile_image: /Users/jake/KIM-JAKE.github.io/images/IMG_3782.jpg
+about_profile_image: images/IMG_3782.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Jaeik (Jake) Kim and I'm a ML & AI student researcher. I'm incoming integrated M.S & Ph.D student at AIDAS (AI, Big Data, and System) Lab @ Seoul National (SNU), advised by Prof. Jaeyoung Do.
 
