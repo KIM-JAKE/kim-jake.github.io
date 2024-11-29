@@ -80,7 +80,7 @@ content:
         sub_title: Undergrad. Researcher
         caption: December 2023 - July 2024
         description: | # this will include new lines to allow paragraphs
-            Research on Computer Vision (Semantic Segmentation), PEFT (Parameter-efficient Fine-tuning) and Continual Learning. |
+            Research on Computer Vision (Semantic Segmentation), PEFT (Parameter-Efficient Fine-Tuning) and Continual Learning. |
             Advised by Prof. Sungeun Hong
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
