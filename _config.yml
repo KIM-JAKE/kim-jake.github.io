@@ -55,12 +55,12 @@ content:
         title: Refining Task Vectors for Enhanced Model Merging with Dynamic Denoising
         # link_text: Project Website
         quote: >
-          1st author
+          1st author, Under review
       - layout: top-middle
         title: Locality Guidance with Dual-Path Tokens for Semantic Segmentation
         # link_text: Project Website
         quote: >
-          1st author
+          1st author, Under review
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
