@@ -46,6 +46,8 @@ linkedin_username: Jaeik (Jake) Kim
 about_profile_image: images/IMG_3782.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Jaeik (Jake) Kim, and I am a student researcher specializing in ML and AI. I am an incoming integrated M.S. & Ph.D. student at the AIDAS (AI, Big Data, and System) Lab at Seoul National University (SNU), where I will be advised by Prof. Jaeyoung Do.
+
+  I am particularly interested in efficient and scalable approaches to vision and large language models (LLMs), especially in areas such as model merging, test-time adaptation, and continual learning.
 content:
   - title: Papers # Title for the section
     layout: list # Type of content section (list/text)
@@ -70,7 +72,8 @@ content:
         sub_title: Undergrad. Researcher
         caption: July 2024 - Present
         description: | # this will include new lines to allow paragraphs
-            Research on the Optimization of Model Merging and representation Learning. |
+            Research on the Optimization of Model Merging and representation Learning. 
+
             Advised by Prof. Jaeyoung Do
       - layout: left
         title: AIM Lab @ SKKU
@@ -79,7 +82,8 @@ content:
         sub_title: Undergrad. Researcher
         caption: December 2023 - July 2024
         description: | # this will include new lines to allow paragraphs
-            Research on Computer Vision (Semantic Segmentation), PEFT (Parameter-Efficient Fine-Tuning) and Continual Learning. |
+            Research on Computer Vision (Semantic Segmentation), PEFT (Parameter-Efficient Fine-Tuning) and Continual Learning. 
+
             Advised by Prof. Sungeun Hong
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
