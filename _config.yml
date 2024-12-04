@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Jaeik Kim
 title: ML/AI Student Researcher
-email: jake630@g.skku.edu
+email: jake630@snu.ac.kr
 website: https://github.com/KIM-JAKE
 
 # Dark Mode (true/false/never)
@@ -45,8 +45,7 @@ linkedin_username: Jaeik (Jake) Kim
 # about_title: About Me
 about_profile_image: images/IMG_3782.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Jaeik (Jake) Kim and I'm a ML & AI student researcher. I'm incoming integrated M.S & Ph.D student at AIDAS (AI, Big Data, and System) Lab @ Seoul National (SNU), advised by Prof. Jaeyoung Do.
-
+  Hi, my name is Jaeik (Jake) Kim, and I am a student researcher specializing in ML and AI. I am an incoming integrated M.S. & Ph.D. student at the AIDAS (AI, Big Data, and System) Lab at Seoul National University (SNU), where I will be advised by Prof. Jaeyoung Do.
 content:
   - title: Papers # Title for the section
     layout: list # Type of content section (list/text)
@@ -85,6 +84,11 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: top-middle
+        title: Seoul National University
+        caption: 2025 - (Imcoming)
+        sub_title: Integrated M.S & Ph.D. in Interdisciplinary Program in Artificial Intelligence (IPAI)
+
       - layout: top-middle
         title: Sungkyunkwan University
         caption: 2021 - 2025 (Expected)
