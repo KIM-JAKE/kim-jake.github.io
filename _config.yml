@@ -52,12 +52,12 @@ content:
   - title: Papers # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: '[2024.11] Refining Task Vectors for Enhanced Model Merging with Dynamic Denoising'
         # link_text: Project Website
         quote: >
           1st author, Under review
-      - layout: left
+      - layout: top-middle
         title: '[2024.08] Locality Guidance with Dual-Path Tokens for Semantic Segmentation'
         # link_text: Project Website
         quote: >
